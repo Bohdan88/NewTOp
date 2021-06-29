@@ -14,7 +14,7 @@ public class Main {
         upakovka.Print();
         PrintTest(buket);
         kvity.Grow();
-        Buket buket1 = new Buket("Rgiuse",14,88);
+        Buket buket1 = new Buket("Rgiuddddfse",14,88);
         Buket buket2 = new Buket("Rouse",14,88);
                 System.out.println(buket1.equals(buket2));
 
